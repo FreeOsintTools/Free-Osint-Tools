@@ -19,18 +19,7 @@ A cyber-themed website focused on privacy, encryption and opposition to mass sur
 
 ---
 
-## 🖥️ WEBSITE
 
-The website uses a dark cyberpunk interface with:
-
-```text
-[+] Neon red UI
-[+] Glitch effects
-[+] Terminal-style elements
-[+] Responsive design
-[+] Mobile support
-[+] Privacy-focused content
-```
 
 ---
 
@@ -39,10 +28,7 @@ The website uses a dark cyberpunk interface with:
 ```text
 anti-chat-control/
 │
-├── index.html
-├── style.css
-├── script.js
-└── README.md
+├── Osint inklusive Discord
 ```
 
 ---
