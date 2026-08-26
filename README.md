@@ -1,91 +1,34 @@
+# ⛓️ ANTI-CHAT CONTROL // CYBER STATEMENT
 
-# 🔴 ANTI CHAT CONTROL
+> **PRIVACY IS NOT A CRIME.**
 
-> **PRIVACY IS SECURITY. ENCRYPTION IS A RIGHT.**
+We stand against **Chat Control** because private communication should remain private.
 
-A cyber-themed website focused on privacy, encryption and opposition to mass surveillance.
+### // OUR POSITION
 
----
+`01` **NO MASS SURVEILLANCE**
+Millions of innocent users should not be treated as suspects.
 
-## ⚡ PROJECT
+`02` **PROTECT ENCRYPTION**
+Strong encryption protects everyone. Weakening it can create security risks for ordinary users.
 
-**ANTI CHAT CONTROL** is a community project supporting:
+`03` **DEFEND DIGITAL PRIVACY**
+Private messages, files and conversations should not be unnecessarily monitored or scanned.
 
-* 🔐 Strong encryption
-* 🛡️ Privacy by design
-* 🌐 Secure communication
-* 🚫 Opposition to mass surveillance
-* 💻 Cybersecurity awareness
+`04` **SECURITY > SURVEILLANCE**
+Fighting illegal content should focus on targeted and effective investigations—not mass monitoring.
 
----
+`05` **DIGITAL FREEDOM**
+A free internet requires privacy, security and the ability to communicate without unnecessary surveillance.
 
+### // OUR MESSAGE
 
+We are **not** defending illegal activity.
 
----
+We are defending the principle that **everyone deserves privacy and security online**.
 
-## 📁 STRUCTURE
+**NO MASS SCANNING.**
+**NO BACKDOORS.**
+**NO MASS SURVEILLANCE.**
 
-```text
-anti-chat-control/
-│
-├── Osint inklusive Discord
-```
-
----
-
-## 🔧 TECHNOLOGY
-
-```text
-HTML5
-CSS3
-JavaScript
-GitHub Pages
-```
-
-No backend or database is required.
-
----
-
-## 🔒 OUR POSITION
-
-We support effective and targeted action against illegal activity while protecting secure communication for everyone.
-
-We believe cybersecurity should strengthen encryption and privacy rather than weaken the security of ordinary users.
-
-```text
-ENCRYPTION      = SECURITY
-PRIVACY         = A RIGHT
-MASS SCANNING   = OPPOSED
-```
-
----
-
-## 🚀 HOSTING
-
-This project can be hosted for free using **GitHub Pages**.
-
-Upload the project files to a public GitHub repository and enable:
-
-```text
-Settings
-   ↓
-Pages
-   ↓
-Deploy from branch
-   ↓
-main / root
-```
-
----
-
-## ⚠️ DISCLAIMER
-
-This project is intended for **privacy and cybersecurity awareness**.
-
-Do not use the website or project to facilitate harassment, doxxing, unauthorized access, or other illegal activity.
-
----
-
-### 🔴 ANTI CHAT CONTROL
-
-**PRIVACY • ENCRYPTION • SECURITY**
+`[ ANTI-CHAT CONTROL // PRIVACY // SECURITY // FREEDOM ]`
